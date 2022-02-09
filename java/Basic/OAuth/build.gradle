@@ -1,0 +1,23 @@
+plugins {
+    id 'application'
+}
+
+application {
+    mainClass = 'OAuth'
+}
+
+group 'com.factset.sdk.sample.basic'
+version '1.0.0'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'com.factset.sdk:paengine:0.9.0'
+    implementation 'com.factset.sdk:utils:0.9.0'
+}
+
+test {
+    useJUnitPlatform()
+}

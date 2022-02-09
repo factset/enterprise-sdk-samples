@@ -1,0 +1,6 @@
+{
+    "noImplicitAny": true,
+    "compilerOptions": {
+        "lib": [ "es2015" ]
+    }
+}
