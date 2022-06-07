@@ -64,7 +64,7 @@ Follow this [guide](https://github.com/factset/enterprise-sdk#authentication) to
    npm install --global yarn
    ```
 
-3. Move to the directory containing the sample you wish to run (e.g. `cd typescript/PAEngine`). Install depenencies.
+3. Move to the directory containing the sample you wish to run (e.g. `cd typescript/PAEngine`). Install dependencies.
 
    ```sh
    yarn install
