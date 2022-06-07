@@ -56,7 +56,7 @@ Follow this [guide](https://github.com/factset/enterprise-sdk#authentication) to
 
 ### TypeScript
 
-1. [Download and install](https://nodejs.org/en/download/) Node.js 14.19 or greater
+1. [Download and install](https://nodejs.org/en/download/) Node.js 14.19 or greater.
 
 2. [Install Yarn](https://classic.yarnpkg.com/lang/en/docs/install). If you're using the terminal:
 
