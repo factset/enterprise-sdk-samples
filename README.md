@@ -56,19 +56,21 @@ Follow this [guide](https://github.com/factset/enterprise-sdk#authentication) to
 
 ### TypeScript
 
-1. [Install Yarn](https://classic.yarnpkg.com/lang/en/docs/install). If you're using the terminal:
+1. [Download and install](https://nodejs.org/en/download/) Node.js 14.19 or greater
+
+2. [Install Yarn](https://classic.yarnpkg.com/lang/en/docs/install). If you're using the terminal:
 
    ```sh
    npm install --global yarn
    ```
 
-2. Move to the directory containing the sample you wish to run (e.g. `cd typescript/PAEngine`). Install depenencies.
+3. Move to the directory containing the sample you wish to run (e.g. `cd typescript/PAEngine`). Install depenencies.
 
    ```sh
    yarn install
    ```
 
-3. Run the sample. Make any necessary changes to the sample code (e.g. the OAuth 2.0 configuration file path) and run it:
+4. Run the sample. Make any necessary changes to the sample code (e.g. the OAuth 2.0 configuration file path) and run it:
 
    ```sh
    yarn start
