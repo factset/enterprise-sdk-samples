@@ -34,7 +34,7 @@ Follow this [guide](https://github.com/factset/enterprise-sdk#authentication) to
 
 ### Python
 
-1. Install and activate python 3.6+. If you're using [pyenv](https://github.com/pyenv/pyenv):
+1. Install and activate python 3.7+. If you're using [pyenv](https://github.com/pyenv/pyenv):
 
    ```sh
    pyenv install 3.9.7
